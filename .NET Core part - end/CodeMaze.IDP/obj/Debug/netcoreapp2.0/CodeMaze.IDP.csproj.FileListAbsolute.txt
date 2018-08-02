@@ -1,0 +1,8 @@
+D:\Work\IS4Blog\IdentityServer4IntegratedWithAngularAnd.NetCore2\.NET Core part - end\CodeMaze.IDP\bin\Debug\netcoreapp2.0\CodeMaze.IDP.deps.json
+D:\Work\IS4Blog\IdentityServer4IntegratedWithAngularAnd.NetCore2\.NET Core part - end\CodeMaze.IDP\bin\Debug\netcoreapp2.0\CodeMaze.IDP.runtimeconfig.json
+D:\Work\IS4Blog\IdentityServer4IntegratedWithAngularAnd.NetCore2\.NET Core part - end\CodeMaze.IDP\bin\Debug\netcoreapp2.0\CodeMaze.IDP.runtimeconfig.dev.json
+D:\Work\IS4Blog\IdentityServer4IntegratedWithAngularAnd.NetCore2\.NET Core part - end\CodeMaze.IDP\bin\Debug\netcoreapp2.0\CodeMaze.IDP.dll
+D:\Work\IS4Blog\IdentityServer4IntegratedWithAngularAnd.NetCore2\.NET Core part - end\CodeMaze.IDP\obj\Debug\netcoreapp2.0\CodeMaze.IDP.csprojResolveAssemblyReference.cache
+D:\Work\IS4Blog\IdentityServer4IntegratedWithAngularAnd.NetCore2\.NET Core part - end\CodeMaze.IDP\obj\Debug\netcoreapp2.0\CodeMaze.IDP.csproj.CoreCompileInputs.cache
+D:\Work\IS4Blog\IdentityServer4IntegratedWithAngularAnd.NetCore2\.NET Core part - end\CodeMaze.IDP\obj\Debug\netcoreapp2.0\CodeMaze.IDP.AssemblyInfoInputs.cache
+D:\Work\IS4Blog\IdentityServer4IntegratedWithAngularAnd.NetCore2\.NET Core part - end\CodeMaze.IDP\obj\Debug\netcoreapp2.0\CodeMaze.IDP.AssemblyInfo.cs
